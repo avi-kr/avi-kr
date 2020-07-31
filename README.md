@@ -46,7 +46,6 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-
 - [Create Light Waving Layout or Loader in android in 7 Steps.](https://medium.com/@avi_kr16/create-light-waving-layout-in-android-with-in-7-steps-5a2039f8c512?source=rss-118fdb1e6f0------2)
 - [Creating A Simple Custom Drawing View In Android within 5 Steps.](https://medium.com/@avi_kr16/creating-a-simple-android-drawing-view-in-5-steps-4512fd031638?source=rss-118fdb1e6f0------2)
 - [Creating A Simple Android Calendar in 7 Steps.](https://medium.com/@avi_kr16/creating-a-simple-android-calendar-in-7-steps-fa18a7945350?source=rss-118fdb1e6f0------2)
