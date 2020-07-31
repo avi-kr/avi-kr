@@ -36,6 +36,12 @@
 <br />
 <br />
 
+---
+
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 [website]: https://www.vmock.com
 [twitter]: https://twitter.com/avi_sheka
 [instagram]: https://instagram.com/lensman_abhishek/
