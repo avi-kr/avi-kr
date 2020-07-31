@@ -59,3 +59,8 @@
 [linkedin]: https://www.linkedin.com/in/abhishek-kumar-74769272
 [stackoverflow]: https://stackoverflow.com/users/3832604/abhishek
 [medium]: https://medium.com/@avi_kr16
+
+---
+
+<img align="left" alt="avi-kr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=avi-kr&show_icons=true&hide_border=true" />
+
