@@ -38,7 +38,7 @@
 
 ---
 
-### 📺 Latest StackOverFlow Activities
+### 📺 Latest Stack OverFlow Activities
 <!-- STACKOVERFLOW:START -->
 <!-- STACKOVERFLOW:END -->
 
