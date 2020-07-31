@@ -18,8 +18,8 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Android Studio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Android_Studio_icon.svg" />]
-[<img align="left" alt="Android" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/32/Android_logo_%282014%29.svg" />]
+[<img align="left" alt="Android Studio" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/androidstudio.svg" />]
+[<img align="left" alt="Android" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/android.svg" />]
 [<img align="left" alt="Kotlin" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/kotlin.svg" />]
 [<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/java.svg" />]
 [<img align="left" alt="Eclipse" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/eclipseide.svg" />]
@@ -29,7 +29,6 @@
 [<img align="left" alt="Intellijidea" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/intellijidea.svg" />]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]
 [<img align="left" alt="Sqlite" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/sqlite.svg" />]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
