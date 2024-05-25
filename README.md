@@ -1,6 +1,6 @@
 ### Hi there, I'm Abhishek Kumar 👋
 
-## I'm an Android Developer!
+## I'm an Android Tech Lead | Android + Flutter!
 - 🔭 I’m currently working on a [ClicFlyer][website]!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2024 Goals: Contribute more to Open Source projects
