@@ -40,8 +40,8 @@
 
 ### 📺 Latest Stack OverFlow Activities
 <!-- STACKOVERFLOW:START -->
-- [Save video in every 5 second interval while video recoding is ON (Android OS)](https://stackoverflow.com/questions/58745599/save-video-in-every-5-second-interval-while-video-recoding-is-on-android-os)
-- [How to get user's birthday after Google Sign-in Android](https://stackoverflow.com/questions/45739646/how-to-get-users-birthday-after-google-sign-in-android)
+- [Save video in every 5 second interval while video recoding is ON &lpar;Android OS&rpar;](https://stackoverflow.com/questions/58745599/save-video-in-every-5-second-interval-while-video-recoding-is-on-android-os)
+- [How to get user&#39;s birthday after Google Sign-in Android](https://stackoverflow.com/questions/45739646/how-to-get-users-birthday-after-google-sign-in-android)
 - [SSL Retrofit Android : Stream does not represent a pkcs12 key store](https://stackoverflow.com/questions/44173621/ssl-retrofit-android-stream-does-not-represent-a-pkcs12-key-store)
 - [Any other methods to show 3 dots or truncate in TextView](https://stackoverflow.com/questions/41760746/any-other-methods-to-show-3-dots-or-truncate-in-textview)
 - [setError message is affecting scrollview from scrolling android](https://stackoverflow.com/questions/41588460/seterror-message-is-affecting-scrollview-from-scrolling-android)
