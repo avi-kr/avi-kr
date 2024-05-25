@@ -1,9 +1,9 @@
 ### Hi there, I'm Abhishek Kumar 👋
 
 ## I'm an Android Developer!
-- 🔭 I’m currently working on a [VMock India][website]!
+- 🔭 I’m currently working on a [ClicFlyer][website]!
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play piano
 
 ### Connect with me:
@@ -58,7 +58,7 @@
 - [Getting started with Bottom Sheets](https://medium.com/@avi_kr16/getting-started-with-bottom-sheets-f33f1a5b1bf?source=rss-118fdb1e6f0------2)
 <!-- BLOG-POST-LIST:END -->
 
-[website]: https://www.vmock.com
+[website]: https://clicflyer.com/
 [twitter]: https://twitter.com/avi_sheka
 [instagram]: https://instagram.com/lensman_abhishek/
 [linkedin]: https://www.linkedin.com/in/abhishek-kumar-74769272
