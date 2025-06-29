@@ -51,11 +51,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Blog Post 1: Unveiling the Blueprint — What is Clean Architecture? &lpar;Like Building a Ninja Village&rpar;](https://medium.com/@avi_kr16/blog-post-1-unveiling-the-blueprint-what-is-clean-architecture-like-building-a-ninja-village-7552598a5c62?source=rss-118fdb1e6f0------2)
 - [Create Light Waving Layout or Loader in android in 7 Steps.](https://medium.com/@avi_kr16/create-light-waving-layout-in-android-with-in-7-steps-5a2039f8c512?source=rss-118fdb1e6f0------2)
 - [Creating A Simple Custom Drawing View In Android within 5 Steps.](https://medium.com/@avi_kr16/creating-a-simple-android-drawing-view-in-5-steps-4512fd031638?source=rss-118fdb1e6f0------2)
 - [Creating A Simple Android Calendar in 7 Steps.](https://medium.com/@avi_kr16/creating-a-simple-android-calendar-in-7-steps-fa18a7945350?source=rss-118fdb1e6f0------2)
 - [Uses of Interfaces in android Development.](https://medium.com/@avi_kr16/uses-of-interfaces-in-android-development-b69236a8e76?source=rss-118fdb1e6f0------2)
-- [Getting started with Bottom Sheets](https://medium.com/@avi_kr16/getting-started-with-bottom-sheets-f33f1a5b1bf?source=rss-118fdb1e6f0------2)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://clicflyer.com/
