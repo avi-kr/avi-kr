@@ -40,11 +40,11 @@
 
 ### 📺 Latest Stack OverFlow Activities
 <!-- STACKOVERFLOW:START -->
-- [Answer by Abhishek for Persistent Flutter APK Release Build Failure: resource android:attr/lStar not found](https://stackoverflow.com/questions/79666665/persistent-flutter-apk-release-build-failure-resource-androidattr-lstar-not-fo/79684800#79684800)
-- [Answer by Abhishek for How can I change the status bar and navigation bar colors?](https://stackoverflow.com/questions/79684727/how-can-i-change-the-status-bar-and-navigation-bar-colors/79684792#79684792)
-- [Answer by Abhishek for Flutter doctor not running in CMD](https://stackoverflow.com/questions/79682778/flutter-doctor-not-running-in-cmd/79684678#79684678)
-- [Answer by Abhishek for How to display drive label instead of number?](https://stackoverflow.com/questions/79684513/how-to-display-drive-label-instead-of-number/79684671#79684671)
 - [Save video in every 5 second interval while video recoding is ON &lpar;Android OS&rpar;](https://stackoverflow.com/questions/58745599/save-video-in-every-5-second-interval-while-video-recoding-is-on-android-os)
+- [How to get user&#39;s birthday after Google Sign-in Android](https://stackoverflow.com/questions/45739646/how-to-get-users-birthday-after-google-sign-in-android)
+- [SSL Retrofit Android : Stream does not represent a pkcs12 key store](https://stackoverflow.com/questions/44173621/ssl-retrofit-android-stream-does-not-represent-a-pkcs12-key-store)
+- [Any other methods to show 3 dots or truncate in TextView](https://stackoverflow.com/questions/41760746/any-other-methods-to-show-3-dots-or-truncate-in-textview)
+- [setError message is affecting scrollview from scrolling android](https://stackoverflow.com/questions/41588460/seterror-message-is-affecting-scrollview-from-scrolling-android)
 <!-- STACKOVERFLOW:END -->
 
 ---
