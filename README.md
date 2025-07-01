@@ -51,11 +51,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Blog Post 5: The Genin &amp; The Hokage’s Orders — The Presentation Layer with BLoC](https://medium.com/@avi_kr16/blog-post-5-the-genin-the-hokages-orders-the-presentation-layer-with-bloc-2c935296b378?source=rss-118fdb1e6f0------2)
 - [Blog Post 4: The Akatsuki’s Coordination — Mastering Dependency Injection &lpar;DI&rpar;](https://medium.com/@avi_kr16/blog-post-4-the-akatsukis-coordination-mastering-dependency-injection-di-4716dba0e4d0?source=rss-118fdb1e6f0------2)
 - [Blog Post 3: The Village Archives &amp; Mission Control — The Repository Pattern &amp; Data Sources](https://medium.com/@avi_kr16/blog-post-3-the-village-archives-mission-control-the-repository-pattern-data-sources-d3e8ed260828?source=rss-118fdb1e6f0------2)
 - [Blog Post 2: The Heart of the Village — Understanding the Domain Layer &lpar;Entities &amp; Use Cases&rpar;](https://medium.com/@avi_kr16/blog-post-2-the-heart-of-the-village-understanding-the-domain-layer-entities-use-cases-3ba821898936?source=rss-118fdb1e6f0------2)
 - [Blog Post 1: Unveiling the Blueprint — What is Clean Architecture? &lpar;Like Building a Ninja Village&rpar;](https://medium.com/@avi_kr16/blog-post-1-unveiling-the-blueprint-what-is-clean-architecture-like-building-a-ninja-village-7552598a5c62?source=rss-118fdb1e6f0------2)
-- [Create Light Waving Layout or Loader in android in 7 Steps.](https://medium.com/@avi_kr16/create-light-waving-layout-in-android-with-in-7-steps-5a2039f8c512?source=rss-118fdb1e6f0------2)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://clicflyer.com/
