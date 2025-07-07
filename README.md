@@ -51,11 +51,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Blog Post 8: The Military Archives — Version Control with Git](https://medium.com/@avi_kr16/blog-post-8-the-military-archives-version-control-with-git-4a90b5763dcc?source=rss-118fdb1e6f0------2)
 - [Blog Post 7: The Shinobi’s Tools — Utility Classes &amp; Responsive Design &lpar;ScreenUtil&rpar;](https://medium.com/@avi_kr16/blog-post-7-the-shinobis-tools-utility-classes-responsive-design-screenutil-e7567b9a25ef?source=rss-118fdb1e6f0------2)
 - [Blog Post 6: The Alchemist’s Experiment Log — Test-Driven Development &lpar;TDD&rpar; in Action](https://medium.com/@avi_kr16/blog-post-6-the-alchemists-experiment-log-test-driven-development-tdd-in-action-f3ecb96ff614?source=rss-118fdb1e6f0------2)
 - [Blog Post 5: The Genin &amp; The Hokage’s Orders — The Presentation Layer with BLoC](https://medium.com/@avi_kr16/blog-post-5-the-genin-the-hokages-orders-the-presentation-layer-with-bloc-2c935296b378?source=rss-118fdb1e6f0------2)
 - [Blog Post 4: The Akatsuki’s Coordination — Mastering Dependency Injection &lpar;DI&rpar;](https://medium.com/@avi_kr16/blog-post-4-the-akatsukis-coordination-mastering-dependency-injection-di-4716dba0e4d0?source=rss-118fdb1e6f0------2)
-- [Blog Post 3: The Village Archives &amp; Mission Control — The Repository Pattern &amp; Data Sources](https://medium.com/@avi_kr16/blog-post-3-the-village-archives-mission-control-the-repository-pattern-data-sources-d3e8ed260828?source=rss-118fdb1e6f0------2)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://clicflyer.com/
