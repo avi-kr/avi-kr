@@ -1,71 +1,51 @@
-### Hi there, I'm Abhishek Kumar 👋
+# Hey, I'm Abhishek Kumar 👋
 
-## I'm an Android Tech Lead | Android + Flutter!
-- 🔭 I’m currently working on a [ClicFlyer][website]!
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2024 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play piano
-
-### Connect with me:
-
-[<img align="left" alt="avi-kr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="avi-kr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="avi-kr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="avi-kr | StackOverFlow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/stackoverflow.svg" />][stackoverflow]
-[<img align="left" alt="avi-kr | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/medium.svg" />][medium]
-
-<br />
-
-### Languages and Tools:
-
-[<img align="left" alt="Android Studio" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/androidstudio.svg" />]
-[<img align="left" alt="Android" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/android.svg" />]
-[<img align="left" alt="Kotlin" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/kotlin.svg" />]
-[<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/java.svg" />]
-[<img align="left" alt="Eclipse" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/eclipseide.svg" />]
-[<img align="left" alt="Flutter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/flutter.svg" />]
-[<img align="left" alt="Swift" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/swift.svg" />]
-[<img align="left" alt="Xcode" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/xcode.svg" />]
-[<img align="left" alt="Intellijidea" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/intellijidea.svg" />]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]
-[<img align="left" alt="Sqlite" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/sqlite.svg" />]
-[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/mysql.svg" />]
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/git.svg" />]
-[<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/github.svg" />]
-
-<br />
-<br />
+**Senior Flutter Engineer & Technical Lead** · AI/LLM Integration · Headless E-Commerce · 12+ Years
 
 ---
 
-### 📺 Latest Stack OverFlow Activities
-<!-- STACKOVERFLOW:START -->
-- [Save video in every 5 second interval while video recoding is ON &lpar;Android OS&rpar;](https://stackoverflow.com/questions/58745599/save-video-in-every-5-second-interval-while-video-recoding-is-on-android-os)
-- [How to get user&#39;s birthday after Google Sign-in Android](https://stackoverflow.com/questions/45739646/how-to-get-users-birthday-after-google-sign-in-android)
-- [SSL Retrofit Android : Stream does not represent a pkcs12 key store](https://stackoverflow.com/questions/44173621/ssl-retrofit-android-stream-does-not-represent-a-pkcs12-key-store)
-- [Any other methods to show 3 dots or truncate in TextView](https://stackoverflow.com/questions/41760746/any-other-methods-to-show-3-dots-or-truncate-in-textview)
-- [setError message is affecting scrollview from scrolling android](https://stackoverflow.com/questions/41588460/seterror-message-is-affecting-scrollview-from-scrolling-android)
-<!-- STACKOVERFLOW:END -->
+### What I'm working on
+
+- 📱 Leading Flutter mobile development for **AAFES – Shop My Exchange** — a global military retail platform serving U.S. personnel across 30+ countries
+- 🤖 Building a **CrewAI multi-agent job search system** — 4 specialised agents running on a local Qwen2.5-Coder model via LM Studio
+- ☁️ Working towards **AWS Cloud Practitioner** certification
 
 ---
 
-### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Blog Post 9: Bringing It All Together — Our To-Do App’s Clean Architecture in Practice](https://medium.com/@avi_kr16/blog-post-9-bringing-it-all-together-our-to-do-apps-clean-architecture-in-practice-c99b045a9293?source=rss-118fdb1e6f0------2)
-- [Blog Post 8: The Military Archives — Version Control with Git](https://medium.com/@avi_kr16/blog-post-8-the-military-archives-version-control-with-git-4a90b5763dcc?source=rss-118fdb1e6f0------2)
-- [Blog Post 7: The Shinobi’s Tools — Utility Classes &amp; Responsive Design &lpar;ScreenUtil&rpar;](https://medium.com/@avi_kr16/blog-post-7-the-shinobis-tools-utility-classes-responsive-design-screenutil-e7567b9a25ef?source=rss-118fdb1e6f0------2)
-- [Blog Post 6: The Alchemist’s Experiment Log — Test-Driven Development &lpar;TDD&rpar; in Action](https://medium.com/@avi_kr16/blog-post-6-the-alchemists-experiment-log-test-driven-development-tdd-in-action-f3ecb96ff614?source=rss-118fdb1e6f0------2)
-- [Blog Post 5: The Genin &amp; The Hokage’s Orders — The Presentation Layer with BLoC](https://medium.com/@avi_kr16/blog-post-5-the-genin-the-hokages-orders-the-presentation-layer-with-bloc-2c935296b378?source=rss-118fdb1e6f0------2)
-<!-- BLOG-POST-LIST:END -->
+### Tech I work with
 
-[website]: https://clicflyer.com/
-[twitter]: https://twitter.com/avi_sheka
-[instagram]: https://instagram.com/lensman_abhishek/
-[linkedin]: https://www.linkedin.com/in/abhishek-kumar-74769272
-[stackoverflow]: https://stackoverflow.com/users/3832604/abhishek
-[medium]: https://medium.com/@avi_kr16
+```
+Mobile       →  Flutter · Dart · Android (Java/Kotlin) · iOS (Swift)
+AI / LLM     →  CrewAI · LM Studio · Prompt Engineering · Qwen2.5
+E-Commerce   →  Frontastic · Monetate · Headless Commerce · REST APIs
+Backend      →  Node.js · TypeScript · Django · Firebase
+Tooling      →  Git · Android Studio · VS Code · Xcode · JIRA
+```
 
 ---
 
-<img align="left" alt="avi-kr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=avi-kr&show_icons=true&hide_border=true" />
+### Featured projects
 
+| Project | Description | Stack |
+|---|---|---|
+| [AAFES – Shop My Exchange](#) | Global military retail platform, 30+ countries | Flutter · Monetate · Frontastic · Node.js |
+| [CrewAI Multi-Agent System](#) | 4-agent job search automation with local LLM | Python · CrewAI · LM Studio · Qwen2.5 |
+| [BankSocial](#) | Blockchain-powered social banking app | Flutter · DeFi · iOS · Android |
+| [ClicFlyer](#) | Retail promotions platform, offline-first | Flutter · Firebase |
+| [VMock Career Platform](#) | AI-powered career intelligence, used by global B-schools | Flutter · Django · Android |
+
+---
+
+### Background
+
+- 🎓 **M.Tech · BITS Pilani** (2017–2019)
+- 📍 Based in **Mumbai, India**
+- 12+ years shipping production mobile systems across India, US, and global markets
+
+---
+
+### Find me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-kumar-74769272)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00D4AA?style=flat&logo=github&logoColor=white)](https://avi-kr.github.io)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:avi.kr16@gmail.com)
